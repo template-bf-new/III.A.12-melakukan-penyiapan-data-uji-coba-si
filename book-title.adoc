@@ -1,0 +1,41 @@
+= Dokumen Contoh Data Uji Coba Sistem Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Nama Sistem
+
+== Deskripsi Sistem
+
+== Jenis Pengujian dan Tujuannya
+
+== Nama Fungsi dan Deskripsinya
+
+== Contoh Data Uji Coba
+
+dilengkapi keterangan :
+
+. _test case_ / skenario pengujian mengikuti butir menyusun skenario uji coba sistem informasi
+. atribut nama _fields_
+. _value_ dari  _fields_
